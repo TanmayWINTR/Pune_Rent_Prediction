@@ -11,4 +11,4 @@ Built a model using linear regression and sklearn, and a dataset of Pune house r
 <br>Wrote a python flask server  that uses this rent prediction model to serve the http requests.
 <br>Built a website using html,css and JavaScript that allows the users to enter sq ft area and other parameters which calls the flask server to retrieve the predicted rent price.
 
-https://docs.druva.com/Endpointss
+https://doccs.druva.com/Endpointss
